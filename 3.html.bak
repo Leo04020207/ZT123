@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Generic - Hyperspace by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<a href="index.html" class="title">Hyperspace</a>
+				<nav>
+					<ul>
+						<li><a href="index.html">主頁</a></li>
+						<li><a href="1.html" class="active">研究動機</a></li>
+						<li><a href="2.html" class="active">研究方法與流程</a></li>
+						<li><a href="3.html" class="active">電動車技術</a></li>
+						<li><a href="4.html" class="active">電動車市場分析</a></li>
+						<li><a href="5.html" class="active">未來趨勢</a></li>	
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<section id="main" class="wrapper">
+						<div class="inner">
+							<h1 class="major">電動車技術</h1>
+							<h2>電池技術</h2>
+							<a href="#" class="image"><img src="images/2.png" alt="" data-position="25% 25%" width="80%" height="80%" /></a>
+							<p></p>
+							<a href="#" class="image"><img src="images/3.png" alt="" data-position="25% 25%" width="100%" height="100%" /></a>
+							<p></p>
+							<h2>再生制動技術</h2>
+							<a href="#" class="image"><img src="images/4.png" alt="" data-position="25% 25%"/></a>
+							<p><b>再生制動，是一種使用在電動車輛上的制動技術。在制動時把車輛的動能轉化及儲存起來；而不是變成無用的熱。再生制動可以用於所有電動機械中，而電動機械主要是鏇轉式，例如電動機，所以再生制動常見於電動機拖動的系統中，簡稱電力拖動系統。再生制動在電力機車、有軌電車、無軌電車及純電動或混合動力汽車上很常見。當切除電源時，電動機慣性轉動，此時通過電路切換，往轉子中提供相比而言功率較小的勵磁電源，產生磁場，該磁場通過轉子的物理旋轉，切割定子的繞組，定子於是感應出電動勢，此電動勢通過電力裝置接入電網，即為能量回饋。</b></p>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Generic - Hyperspace by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<a href="index.html" class="title">Hyperspace</a>
+				<nav>
+					<ul>
+						<li><a href="index.html">主頁</a></li>
+						<li><a href="1.html" class="active">研究動機</a></li>
+						<li><a href="2.html" class="active">研究方法與流程</a></li>
+						<li><a href="3.html" class="active">電動車技術</a></li>
+						<li><a href="4.html" class="active">市場趨勢</a></li>
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<section id="main" class="wrapper">
+						<div class="inner">
+							<h1 class="major">研究動機</h1>
+							<p>隨著全球氣候暧化與能源短缺危機，各國皆將能源減碳視為重要施政議題。國際能源署(IEA)3月8日發佈數據稱，2021 年全球二氧化碳排放量達到 363 億噸，創歷史新高。隨著經濟從新冠疫情中復甦，排放大量二氧化碳的煤炭的消費猛增。這表明國際社會—致主張強化的氣候變化應到措施不夠完善。統計對象為能源燃燒以及鋼鐵等工業領域排放的二氧化碳，2020 年受新冠疫情影響，經齊活動低迷，排放量比 2019 年減少 5.2%。但由於各國採取經齊刺激政策和疫苗普及，世界經齊迅速復甦，2021 年的排放量比2020年增加 6%。為了抑制排碳量增長，大部分國家皆從交通運輸下手，然而，短期間大幅改善碳排量標準是非常艱困挑戰，因此各國政府積極鼓勵企業投入電動車，從「補貼優惠」、「減稅優惠」和「降低使用費」刺激消費需求，並透過大規模電動車示範運行計畫，建構充電設施，以增加電動車的續航里程。</p>
+							<p>國際產業調查機構 Frost & Sullivan 預估 2020 年全球電動車市場規模將達 到 1000 萬輛(含混合動力車(HEV)、插電式混合動力車(PHEV)、增程電動車(eR-EV) 及純電動車(BEV))，連續兩年增長4成，佔全部四輪車輛的1%。至於電動小貨車、巴士和卡車的全球總量分別達到40萬、60萬和3.1萬。可預見車輛產業鏈將有重大改變。同時，透過科技創新，使用最佳清潔技術，增進生產效能，提升能源效率，降低產業發展與能源運用對環境的影響。</p>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

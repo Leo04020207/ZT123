@@ -1,0 +1,86 @@
+<!DOCTYPE HTML>
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Generic - Hyperspace by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<a href="index.html" class="title">Hyperspace</a>
+				<nav>
+					<ul>
+						<li><a href="index.html">主頁</a></li>
+						<li><a href="1.html" class="active">研究動機</a></li>
+						<li><a href="2.html" class="active">研究方法與流程</a></li>
+						<li><a href="3.html" class="active">電動車技術</a></li>
+						<li><a href="4.html" class="active">電動車市場分析</a></li>
+						<li><a href="5.html" class="active">未來趨勢</a></li>	
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<section id="main" class="wrapper">
+						<div class="inner">
+							<h1 class="major">電動車市場分析</h1>
+							<h2>電動車與燃油車市場</h2>
+							<a href="#" class="image"><img src="images/5.png" alt="" data-position="25% 25%"  width="70%" height="50%"/></a>
+							<h4>從2016到2020來講就純電動車與燃油車相比，每一年的電池電動車都是以超過1.5倍的速度在成長，甚至到了2021 年全球賣破 670 萬輛，車市佔比近 9% 創歷史新高，工研院產科國際所預估，今年全球電動乘用車銷量可達 995.9 萬輛，較去年大增 89.5%，明年全球電動乘用車銷量將首次突破千萬輛，達到 1,289.7 萬輛，占全球整車銷量比重提升至 14.3%，預估最快到 2023 年，純電動車比重有機會超過混合動力車。</h4>
+							<p></p>
+							<h2>電池產能</h2>
+							<a href="#" class="image"><img src="images/6.png" alt="" data-position="25% 25%"  width="70%" height="50%"/></a>
+							<h4>目前全球的動力電池產能集中在中日韓三國身上，產業的集中度很高，CR10就占了93%的銷量。近年來寧德時代及LG Energy Solution先後超車Panasonic拿下1、2名。而比亞迪是目前唯一可同時生產電池及電車的供應商。為了對抗亞洲的主導地位，通用汽車正在美國俄亥俄州和田納西州建造工廠，電池總產能可達特斯拉在內華達州超級工廠的兩倍。福特也計劃與韓國SK Innovation合作在北美擴大產能。根據研究，如果要滿足美國電動車的需求，在未來15年內美國必須建設20到40座超級工廠。以美國現今的情況來看，根本沒有足夠的材料來滿足這一點，因此材料替代和回收將是實現這一目標的關鍵。</h4>
+							<p></p>
+							<h2>台灣市場</h2>
+							<a href="#" class="image"><img src="images/7.png" alt="" data-position="25% 25%"  width="80%" height="60%"/></a>
+							<h4>台灣電動車登記數呈現逐年上升趨勢，2016年電動車登記數僅有737輛，但2020年電動車新登記數迅速攀升至13,364輛，五年內電動車登記數成長約18倍。然而，目前全台汽車登記總數超過800萬輛，電動車數量僅占整體汽車登記數0.16%，其中，2020年純電能車之登記數為11,876輛，占整體汽車數僅0.14%。按類型區分，電能車有11,876輛、電能／汽油有1,335輛、電能／柴油有3輛、電能增程有150輛。若以新車領牌數觀之，2020年電動車（電能、電能／汽油、電能／柴油、電能增程）之新車領牌數有7,201輛，占整體新車領牌數僅1.57%，顯示國內電動車市場仍有很大的成長空間。</h4>
+							<h4>台灣曾於2018年初宣布2040年禁售燃油車的時程，確定了從油轉電的政策方向。然而，行政院在2019年以「油電平權」為由，政策急轉彎，暫緩燃油汽、機車禁售的年限。沒有了長期目標，使得台灣汽車產業相關的轉型政策逐漸式微。儘管如此，台灣仍有企業朝著發展電動車的方向努力，進度甚至超越政府的規劃。</h4>
+							<p></p>
+							<h2>台灣市場發展預估</h2>
+							<h3>(一)充電樁形式與規格需統一化</h3>
+							<h4> 2020 年對台灣電動車市場來說，是高速增長開始的元年。然而，也意味著充電服務的需求日益增加：電動車充電需求可以分為目的地交流充電以及高速直流充電，目的地交流充電通常用在飯店百貨以及停留較久的場域；高速直流充電則是電動車的剛需，適合建置於高速公路交流道沿線上。</h4>
+							<h3>(二)充電裝設施需更加普及，需更多政策法規支持</h3>
+							<h4>在台灣，多數直流充電樁是由車廠建置於自家經銷據點，限自家車種使用，因此對於電動車主來說實際能夠使用的充電站數量其實相當有限。目前台灣擁有最多高速直流充電站的車廠是特斯拉，透過大量部署在建置於高速公路沿線上，提供自家車主長途行駛之充電服務。有趣的是 Tesla 在市場部署站點的速度與該品牌掛牌數成長關係，和國際能源組織IEA 2020發布的 EV outlook中提及的車口數及樁數比（1:50）之數據不謀而合。</h4>
+							<p></p>
+							<h2>電動車市場</h2>
+							<h5>傳統燃油車市場持續下跌，電動車市場仍逆勢高速成長進一步觀察細分市場表現，可以發現傳統燃油汽車與電動車兩大市場出現截然不同的發展趨勢。傳統燃油汽車受到晶片短缺的影響最大，即便整體汽車市場出現復甦跡象，但傳統燃油汽車市場銷售量仍較2020年下跌1.7%，已出現連續第四年的下跌；相形之下，電動車市場卻大幅成長45%，達到1,450萬輛。</h5>
+							<h5>預計在2022年以後，電動車與傳統燃油汽車此消彼漲的趨勢更加明顯，根據IHS Markit及PwC Global的預估，2021年電動車銷售量已佔整體汽車市場的17.9%，2022年電動車市場將進一步成長至2,090萬輛，較2021年仍保持44.1%的高成長率，整體電動車市場滲透率將進一步提高至25.2%，並在2027年達到5,100萬輛的銷售量，屆時電動車銷售量將正式超越傳統燃油汽車，傳統燃油汽車將逐步退出汽車市場。</h5>
+							<a href="#" class="image"><img src="images/8.png" alt="" data-position="25% 25%"  width="80%" height="60%"/></a>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

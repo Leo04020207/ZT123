@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Generic - Hyperspace by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<a href="index.html" class="title">Hyperspace</a>
+				<nav>
+					<ul>
+						<li><a href="index.html">主頁</a></li>
+						<li><a href="1081742.html" class="active">心得與自我評估</a></li>
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<section id="main" class="wrapper">
+						<div class="inner">
+							<h1 class="major">心得與自我評估</h1>
+							<span class="image fit"><img src="images/pic04.jpg" alt="" /></span>
+							<p>因剛好藉由這次的專題讓我好好的認識了馬斯克，而最想學的是它的時間管理，所以我看他的書歸納了他時間管理的三種方式。在「時間箱」管理中，也就解決了拖延的問題。因為必須將待完成的任務，安排進不同的時間區段。時間到了，就要將任務完成或是移動到下個任務，就解決了推遲任務、無限延後截止時間的弊病。接著，可以按照以下步驟來實行「時間箱」管理：步驟一：先在待辦清單寫下需完成的任務、一天內的哪些時間區段有空不管是複雜或簡單的任務，都可以安排進「時間箱」中。包含像運動、閱讀、寫作和安排行程等日常活動，或是回覆郵件和電話、安排會議等較微細瑣的任務，也都可以放進待辦清單中。再將每日能夠完成任務的時段整理出來，以便下一步將任務安排到不同時段中。同時，可以先在時間箱中排除用餐、通勤或是陪伴家庭等固定時段。步驟二：將任務更具體化，並且寫下特定任務需完成的時間接著，有了任務之後，可以將任務具體化。像是在行事曆中寫下晚上11點～12點閱讀，其實有點模糊也不容易執行。所以，可以更具體地寫下「閱讀某本書，1～3章節」，並寫下預估完成的時間。</p>
+							<p>然而，像在任務清單中寫下「完成寫作」，因為任務範圍較廣就不容易完成。因此，可以把這個任務拆解為不同的小任務，包含，蒐集和閱讀相關資料、初擬寫作大綱、開始寫稿、修稿等，也將各個小任務需要完成的時間寫下來。將任務具體化，不僅能夠準確預估需要完成的時間，將任務安排進適合的時間區段內，可以按照任務難度調整時間，不見得需要以分鐘為單位。也能讓人在事後檢視時更了解自己的時間都花在哪裡。步驟三：記得保留彈性時間把所有任務都安排進時間箱後，也需要安排休息時間，或是能夠因應突發狀況的彈性時間。當然，在時間區段中盡可能地完成任務。如果沒辦法在這個「時間箱」完成，那就先將無法完成的任務延後到彈性時間，確保較重要的任務會先被完成，以上就是我觀察出來的時間管理方式，將來也會跟著馬斯克的腳步邁進!</p>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Generic - Hyperspace by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<a href="index.html" class="title">Hyperspace</a>
+				<nav>
+					<ul>
+						<li><a href="index.html">主頁</a></li>
+						<li><a href="1081743.html" class="active">心得與自我評估</a></li>
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<section id="main" class="wrapper">
+						<div class="inner">
+							<h1 class="major">心得與自我評估</h1>
+							<span class="image fit"><img src="images/1081743-1.jpg" alt="" width="500" height="250"/></span>
+							<p>一開始是選擇校外實習禾伸堂，因為個人一些因素轉成校內實習。在這邊非常感謝周老師教授以及我的組員們。我們這次的校內實習專題是［電動車市場研究］，是我非常感興趣的內容。從小就非常喜歡研究各種車子，從家喻戶曉的Toyota到賓士寶馬都有涉略。之前家裡買車就會跟著爸爸到各個車展參觀，閒暇時也會看一些汽車媒體車評與介紹。其中我對電動車最情有獨鍾，電動車是未來的大趨勢，不僅可以節能減碳救地球，在這麼輕的車子上就可以炸出非常高的馬力，可想0~100加速的威力。加上最近幾年各大科技龍頭都相互搶占電動車市場這塊大餅，許多先進的科技與技術也都會優先放在電動車的產品上。</p>
+							<p>我們這組的組員分別是陳立昕，黃翊軒，還有蔡承洋。我們相處和樂，也有良好的溝通與分工合作。我們每兩個禮拜會跟周老師約開會時間，在會議上老師會提醒我們修改一些內容，也告訴我們要去哪邊查參考資料會讓內容更完善。我們則在會議上報告我們各自的進度與下次的會議時間。在這次的校內實習我學了很多，不僅學到了與組員們相互溝通與分工合作的能力，也學到了很多電動車相關的專業技術。像是最印象深刻的是電池技術，根據我們的研究發現不同材質與化學元素組合的電池有著天壤之別的效能與續航力，這也是我認為現在目前各大電動車商短期最重要的課題，如果這項電池技術能有所突破與進化，我相信能領先競爭對手與業界一大截。</p>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

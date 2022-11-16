@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Generic - Hyperspace by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<a href="index.html" class="title">Hyperspace</a>
+				<nav>
+					<ul>
+						<li><a href="index.html">主頁</a></li>
+						<li><a href="1.html" class="active">研究動機</a></li>
+						<li><a href="2.html" class="active">研究方法與流程</a></li>
+						<li><a href="3.html" class="active">電動車技術</a></li>
+						<li><a href="4.html" class="active">電動車市場分析</a></li>
+						<li><a href="5.html" class="active">電動車帶來的影響</a></li>				
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<section id="main" class="wrapper">
+						<div class="inner">
+							<h1 class="major">電動車帶來的影響</h1>
+							<p>2016年全世界171國在紐約聯合國總部簽署「巴黎氣候協定」，期望全球碳排放目標，從2015年到2025年減少40％，能有效遏阻全球暖化；美國碳排放，目前超過50％來自移動污染源，歐洲已設定2030年車輛每公里二氧化碳排放量要在59公克以下，燃油移動車已很難達到此目標，但純電動車可以達標。</p>
+							<p>2020年受COVID-19疫情影響，全球汽車銷量約7,264萬輛，相較2019年的8,670萬輛，年減16％；但全球電動車市場於2020年不受疫情影響突破525萬輛，預估2021年更有望突破995萬輛，且電動車銷量前三國（中國大陸、奧地利、美國）年成長率均超過100％；根據瑞銀集團（UBS）報告，2040年電動車將完全主宰汽車市場，電動車與燃油車製造成本在2025年左右就會趨於相似，屆時電動車的獲利將與燃油車相近；目前挪威、英國及法國，已分別預計2025年、2030年及2040年，將完全淘汰燃油車。</p>
+							<p>2020年4月《人類簡史》的作者尤瓦爾．赫拉利在英國《金融時報》專欄，談疫情過後人類將面對兩個重要的選擇：一是極權主義監視與公民賦權之間選擇，二是民族主義孤立和全球團結之間選擇；他指出疫後的世界已回不去，至於世界會變成什麼樣子，似乎還很難預測；但我們深信全球合作團結面對疫情、面對全球暖化，迎接電動車時代來臨是正確的選擇。</p>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

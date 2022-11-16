@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Generic - Hyperspace by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<a href="index.html" class="title">Hyperspace</a>
+				<nav>
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="generic.html" class="active">Generic</a></li>
+						<li><a href="elements.html">Elements</a></li>
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<section id="main" class="wrapper">
+						<div class="inner">
+							<h1 class="major">心得與自我評估</h1>
+							<p>不太擅長打程式的我們很幸運能遇到周教授，感謝他願意帶我們共同寫專題，剛好她最近有再關注電動車的事情，剛好我們對這方面也蠻有興趣的，畢竟電動車是未來一大很重要的趨勢，就不謀而合的決定要研究電動車相關主題，網路上其實已經有很多電動車相關的資訊，因此大部分我們都是透過上網來找尋電動車二手相關訊息，在這過程中也讓我們更認識電動車的技術以及目前市場、及各過對電動車這方面的政策問題，也讓我們學習到如何快速地找尋資料，每兩個禮拜會跟教授進行開會，從中也能促使我們每個禮拜都要有進度，教授也能從各個方面建議我們需要改善的東西，以及我們查詢所缺少的資料，我們四個組員也相處得很不錯，每周會定期開會討論並且進行完善的分工，大部分都採取線上的方式其實相當方便，不太會有時間喬不到的問題，很感謝這學期能跟這些組員一起合作共同研究電動車的問題。</p>
+							<p>在研究電動車的過程中，我也了解到電池技術的發展，以及它相關需要的技術，還有電動車的推行以及發展，跟許多方面都有關，包括政府的政策面、消費者的心態、以及國家基礎的設施，每一項都是缺一不可的，有了這些才能促使電動車能更快速的發展。</p>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
